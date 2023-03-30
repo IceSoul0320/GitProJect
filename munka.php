@@ -6,7 +6,7 @@
 6d = 69;
 print 6a+6b+6c+6d;
 
-// Itt a vége, FUSS EL VÉLE!
+
 6a =105;
 6b =150;
 print 6a+6b;
