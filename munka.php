@@ -22,7 +22,7 @@ kicsi=3;
 nagy=69;
 print (kicsi*nagy)"<br /> <br />";
 
-// Itt a vége, FUSS EL VÉLE!
+
 
 
 
