@@ -10,10 +10,10 @@ print 6a+6b+6c;
 6b =150;
 print 6a+6b;
 
-6x =10;
-6y =15;
+6x =15;
+6y =420;
 6z = 69;
-print "<br /> <br />".6y-6x;
+print "<br /> <br />".6y-6x-6z;
 
 print "Konfliktus lesz...";
 ?>
