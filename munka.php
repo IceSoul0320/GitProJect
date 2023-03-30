@@ -5,7 +5,7 @@
 6c = 12;
 print 6a+6b+6c;
 
-// Itt a vége, FUSS EL VÉLE!
+
 6a =105;
 6b =150;
 print 6a+6b;
@@ -15,5 +15,11 @@ print 6a+6b;
 print "<br /> <br />".6y-6x;
 
 print "Konfliktus lesz...";
+//SZORZAS
+kicsi=3;
+nagy=69;
+print (kicsi*nagy)"<br /> <br />";
+
+// Itt a vége, FUSS EL VÉLE!
 ?>
 
