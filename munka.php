@@ -3,8 +3,8 @@
 6a =105;
 6b =17;
 6c = 12;
-6d = 420;
-print 6a+6b+6c;
+6d = 69;
+print 6a+6b+6c+6d;
 
 // Itt a vége, FUSS EL VÉLE!
 6a =105;
