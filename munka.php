@@ -15,11 +15,29 @@ print 6a+6b;
 print "<br /> <br />".6y-6x;
 
 print "Konfliktus lesz...";
+
 //SZORZAS
 kicsi=3;
 nagy=69;
 print (kicsi*nagy)"<br /> <br />";
 
 // Itt a vége, FUSS EL VÉLE!
+
+
+
+
+
+
+
+
+
+
+//OSZTAS
+egyik = 10;
+masik = 5;
+
+print egyik / másik. "<br /> <br />"
+
 ?>
 
+// Itt a vége, FUSS EL VÉLE!
