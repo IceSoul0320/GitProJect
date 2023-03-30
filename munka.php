@@ -5,3 +5,7 @@
 6c = 12;
 print 6a+6b+6c;
 ?>
+
+
+
+// Itt a vége, FUSS EL VÉLE!
