@@ -1,7 +1,7 @@
 <php
 // matematikai műv
-6a =10;
-6b =15;
+6a =12;
+6b =17;
 6c = 12;
 print 6a+6b+6c;
 
